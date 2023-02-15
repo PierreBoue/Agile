@@ -17,7 +17,7 @@ Liste des spécifications demandées par le client avec une estimation de la com
     
    
 - **Product Owner :**   
-Représentant du client en charge de veiller à ce que les spécifications demandées soient respéctées
+Représentant du client en charge de veiller à ce que les spécifications demandées soient respéctées. Il est soit employé par le client soit par l'équipe de dev
     
 
 - **Release :**   
@@ -55,4 +55,12 @@ Estimation de la valeur qu’offre une fonctionnalité pour répondre au besoin 
 - **Vélocité :**    
 rapport entre la complexité prévue pour effectuer des tâches et la complexité réelle
 
+## Diagram
+
 ![diag](Gestion%20de%20produit%20Agile.drawio.png)
+
+## Descriptif   
+
+### Spécifications   
+
+Dans un premier temps il faut définir précisément les spécifications, le client fournit une description du projet souhaité. Avec les questions de l'équipe, le product owner demande au client de préciser les spécifications qui doivent être éclaircies.
