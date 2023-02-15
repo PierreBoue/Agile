@@ -95,4 +95,16 @@ On peut ajuster le sprint pour s'assurer d'atteindre l'objectif de l'itération 
 
 3 - Production :
 
-Les équipes construisent ce qui est nécessaire pour valider chaque story
+Les équipes développent ce qui est nécessaire pour valider les stories qui leur sont affectées.
+   
+4 - Revue :
+
+Livraison des stories terminées. Les auteurs présente les nouvelles fonctionnalités qu'ils ont créées au cours du sprint. Le product-owner et dans l'idéal le client valident les stories qui respectent les critères d'acceptation
+
+5 - Rétrospective :
+
+Un bilan comparatif entre les objectifs et les résultats obtenus permet de tirer des conclusions sur la vélocité réelle, les erreurs à corriger, quelles sont les stories non-faites ou pas terminées et comment réctifier le tir pour la prochaine itération.
+
+ On repart ensuite sur l'itération suivante à l'étape 1
+ 
+Si c'est la dernière itération on livre le produit fini au client.
