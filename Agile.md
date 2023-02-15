@@ -93,6 +93,6 @@ réunion quotidienne où tout le monde se pose les questions suivantes :
  - qu'est-ce que j'ai prévu de faire aujourd'hui ?
 On peut ajuster le sprint pour s'assurer d'atteindre l'objectif de l'itération en fonction des conclusions de ce meeting.
 
-### Production
+3 - Production :
 
-Les équipes construisent ce qui est nécessaire poiur valider chaque story
+Les équipes construisent ce qui est nécessaire pour valider chaque story
