@@ -63,4 +63,36 @@ rapport entre la complexité prévue pour effectuer des tâches et la complexit�
 
 ### Spécifications   
 
-Dans un premier temps il faut définir précisément les spécifications, le client fournit une description du projet souhaité. Avec les questions de l'équipe, le product owner demande au client de préciser les spécifications qui doivent être éclaircies.
+Dans un premier temps il faut définir précisément les spécifications, le client fournit une description du projet souhaité. Avec les questions de l'équipe, le product owner demande au client de préciser les spécifications qui ont besoin d'être éclaircies.
+
+### Stratégie   
+
+Les spécifications sont découpées en user stories. Chaque user story reprend les points suivants:
+
+- Titre : en tant que ... je veux ...
+- Critère d'accepatation : pour que ma story soit validée il faut que ...
+- Valeur métier : à quel point cette story a de l'importance pour le client ? représenté par un chiffre arbitraire
+- Comlexité : Quel effort est nécessaire à l'équipe pour mener à bien cette story ? représenté par un chiffre arbitraire qui reflète la complexité relative des différentes stories. Le chiffrage se fait de manière collègiale avec toute l'équipe   
+
+   
+L'ensemble des stories constitue le product backlog.
+
+#### Sprint
+
+Il se divise en plusieurs étapes :
+
+1 - planification :
+
+Un certain nombre de stories à réaliser sont prévues au début de chaque itération de façon à ce que la somme des complexité corresponde à la vélocité de l'équipe et à privilégier les stories qui ont le plus de valeur métier. La vélocité est le nombre de complexité réalisable en une itération. À la première itération la vélocité est determinée arbitrairement. Aux itérations suivantes la vélocité et réajustée en fonction des résultat des itérations précédentes.
+   
+2 - daily meeting ou standup daily meeting :
+
+réunion quotidienne où tout le monde se pose les questions suivantes :
+ - qu'est-ce que j'ai fait hier ?
+ - quelles sont les difficultés que j'ai rencontrées ?
+ - qu'est-ce que j'ai prévu de faire aujourd'hui ?
+On peut ajuster le sprint pour s'assurer d'atteindre l'objectif de l'itération en fonction des conclusions de ce meeting.
+
+### Production
+
+Les équipes construisent ce qui est nécessaire poiur valider chaque story
