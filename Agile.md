@@ -108,3 +108,4 @@ Un bilan comparatif entre les objectifs et les résultats obtenus permet de tire
  On repart ensuite sur l'itération suivante à l'étape 1
  
 Si c'est la dernière itération on livre le produit fini au client.
+Le scrum-master, qui est soit un membre de l'équipe de dév soit une personne uniquement affecté à cette tâche préside et anime les différentes réunion pour s'assurer qu'elles atteignent leurs objectifs. Il est également le porte-parole de l'équipe auprès du product-owner et du client.
